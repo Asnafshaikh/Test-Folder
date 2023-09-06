@@ -1,7 +1,7 @@
 "Guid","SBQQ__Field__c","SBQQ__Formula__c","SBQQ__Order__c","SBQQ__SourceLookupField__c","SBQQ__TargetObject__c","SBQQ__ValueField__c","SBQQ__Value__c"
 4506acef-c5c2-423d-8021-e3d7afc267f4,Discount (Amt),"IF(
 (NOT ( CONTAINS (Line_Item_Status__c ,
-"Cancel') ) &8 ( Contracted_Containers__c > 0 )),IF(
+‘Cancel’) ) &8 ( Contracted_Containers__c > 0 )),IF(
 Total_Contract_Value__c >
 (No_Of_Stops_ _c * Minimum_Pickup_Fee_c * Contract_Term_Length_c) / 12
 ) ;
