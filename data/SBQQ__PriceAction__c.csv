@@ -1,0 +1,2 @@
+Guid,SBQQ__Rule__c,SBQQ__Field__c,SBQQ__Formula__c,SBQQ__Order__c,SBQQ__SourceLookupField__c,SBQQ__SourceVariable__c,SBQQ__TargetObject__c,SBQQ__ValueField__c,SBQQ__Value__c
+3fb94728-a913-4736-ae07-a8da92897c03,a62c4e22-6691-40af-8131-814d8032f1ae,Unit Price,#N/A,#N/A,#N/A,#N/A,Quote,#N/A,Test
