@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticSnapshot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>desc</description>
+    <name>Reporting snapshots</name>
+    <runningUser>alazar@prodly.co.appopsqa2b</runningUser>
+    <sourceReport>unfiled$public/MiMiMi_frD</sourceReport>
+    <targetObject>agf__ADM_Priority__c</targetObject>
+</AnalyticSnapshot>
